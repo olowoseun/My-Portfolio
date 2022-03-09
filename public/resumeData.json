@@ -48,7 +48,7 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Yaba College of Technology - UK",
+        "school": "Yaba College of Technology - Lagos",
         "degree": "HND, Computer Science",
         "graduated": "March 2006"
       }
@@ -58,25 +58,25 @@
         "company": "Design Stics",
         "title": "Web Developer",
         "years": "March 2020 - Present",
-        "description": "Build, maintaining, and securing client websites. E-commerce customizations"
+        "description": "Build, maintaining, and securing client websites. WooCommerce customizations"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "95%"
       },
       {
-        "name": "Python",
+        "name": "WordPress",
         "level": "85%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "96%"
       },
       {
         "name": "Web Development",
